@@ -356,3 +356,70 @@ runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.
 clear
 runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
 !git add .
+!git commit -m "Implemented algo_checker and efficiency_test, command line UX"
+!git push https://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@github.com/jarettmalouf/wordle-helper.git
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+e
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+clear
+runfile('/Users/jarettmalouf/.spyder-py3/source.py', wdir='/Users/jarettmalouf/.spyder-py3')
+!git add .
