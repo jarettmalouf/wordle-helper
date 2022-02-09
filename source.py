@@ -242,7 +242,7 @@ def run_helper():
             print_ranked_options(ranked_options, 10)
             
         guess = input(f"Enter guess #{x + 1}: ")
-        while not valid_input(guess, ALPHABET) or guess not in dictionary:
+        while not valid_input(guess, ALPHABET):
             print(f"'{guess}' is either not in the dictionary or impossible given the constraints.")
             guess = input(f"Enter guess #{x + 1}: ")
             
